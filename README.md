@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @VijayDalali
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in AWS Developer 
 - 🌱 I love learning as a process and mostly about new things.
-- 🌱 I’m currently gaining skills in Python, Machine learning, MySQL, and Statistics.
-- 🌱 I'm currently learning Deep learning and artificial intelligence.
-- 💞️ I’m looking to collaborate on Data Science.
 - 📫 You can reach me on my email id vijaydalali798@gmail.com
 
 <!---
